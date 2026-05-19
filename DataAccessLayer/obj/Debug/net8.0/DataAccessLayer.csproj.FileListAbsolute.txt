@@ -1,0 +1,13 @@
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Jill2\source\repos\KE03_INTDEV_SE_1_Base\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

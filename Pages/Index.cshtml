@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="home">
+    <h1> Welkom bij het Matrix INC Bestelsysteem</h1>
+    <p> Kies hieronder een klant om hun orders te bekijken</p>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Klant</th>
+            <th>Aantal Orders</th>
+        </tr>
+    </thead>
+    @foreach (var c in Model.Customers)
+    {        
+        <tr>
+            <td>@Html.DisplayName(c.Name)</td>
+            <td>@Html.DisplayName(c.Orders.Count.ToString())</td>           
+        </tr>
+    }
+</table>
